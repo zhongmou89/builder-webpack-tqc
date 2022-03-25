@@ -1,0 +1,282 @@
+{
+  "code": 0,
+  "data": {
+    "list": [
+      {
+        "id": 77,
+        "type": 0,
+        "tpl_type": 0,
+        "banner_cover": "https://static001.geekbang.org/resource/image/4c/a8/4c5581147cea438a0963445f37f8fca8.jpg",
+        "banner_redirect_type": "",
+        "banner_redirect_param": "",
+        "title": "微前端架构模式的实践与探索",
+        "subtitle": "2022.03.21 第七十六期",
+        "intro": "\u003cp\u003e微前端这个架构模式由 ThoughtWorks 技术雷达在 2016 年提出，接下来随着 2019 年淘宝支付宝等团队开源各自的微前端方案，同时对社区分享相关实践经验，微前端这个词语在国内前端社区突然火热了起来。有人说微前端是新瓶装旧酒，有人说微前端引入的复杂度太高，也有人认为微前端的思想对于特定业务场景的前端架构意义重大，针对这些观点我们邀请到了几位在微前端领域有丰富经验的前端开发者，希望通过这些开发者的分享能够让大家正确的认识微前端，能够通过微前端的架构产生真正的技术价值。\u003c/p\u003e",
+        "cover": "https://static001.geekbang.org/resource/image/4c/a8/4c5581147cea438a0963445f37f8fca8.jpg",
+        "rect_cover": "https://static001.geekbang.org/resource/image/23/3f/2352bf1b32685cca4b433e7yy06e973f.png",
+        "count": 3,
+        "with_video": true,
+        "start_time": 1647820800,
+        "pids": [
+          100091396,
+          100091397,
+          100091398
+        ],
+        "content": null,
+        "author": {
+          "name": "刘雄（大果）",
+          "title": "",
+          "intro": "淘系前端跨端框架（Rax\u0026ICE）负责人，2014 年校招加入阿里，先后负责过商家、店铺、内容等不同业务体系，也曾经做过自动化 UI 测试相关技术产品，目前主要在负责淘系前端的架构体系，在中后台和无线跨端领域有一些沉淀。",
+          "avatar": "https://static001.geekbang.org/resource/image/c7/9a/c71e0c19ddf9a542d1c48yy8d238c29a.jpg"
+        },
+        "group": {
+          "title": "",
+          "description": "",
+          "start_time": 0,
+          "end_time": 0,
+          "qrcode_show": false,
+          "qrcode_url": ""
+        },
+        "play_count": 145,
+        "score": 0,
+        "labels": [],
+        "extra": {
+          "fav": {
+            "had_done": false
+          }
+        }
+      },
+      {
+        "id": 76,
+        "type": 0,
+        "tpl_type": 0,
+        "banner_cover": "https://static001.geekbang.org/resource/image/32/09/32530b9c293bb20c4e44e77214ddc109.jpg",
+        "banner_redirect_type": "",
+        "banner_redirect_param": "",
+        "title": "分布式锁业务实践",
+        "subtitle": "2022.03.14 第七十五期",
+        "intro": "\u003cp\u003e当前互联网技术架构中，最流行的莫过于分布式架构了。分布式架构里，数据一致性问题如何解决非常关键，而分布式锁是解决数据一致性问题很重要的一个方案。那么在实际业务场景中，我们该在什么时候选择分布式锁，以及使用分布式锁要注意哪些问题呢？本次专题将为大家分享分布式锁在实际业务场景的使用，详细介绍分布式锁在实际使用时的一些实践和思考，希望能为你在实际工作中带来启发。\u003c/p\u003e",
+        "cover": "https://static001.geekbang.org/resource/image/32/09/32530b9c293bb20c4e44e77214ddc109.jpg",
+        "rect_cover": "https://static001.geekbang.org/resource/image/11/03/11bb3dd56a246489851cf124899d9303.png",
+        "count": 3,
+        "with_video": true,
+        "start_time": 1647216000,
+        "pids": [
+          100091395,
+          100091394,
+          100091393
+        ],
+        "content": null,
+        "author": {
+          "name": "郑吉敏",
+          "title": "",
+          "intro": "去哪儿网技术总监，2019 年 8 月入职去哪儿网，机票目的地事业群技术总监、技术委员会委员，负责目的地业务研发报价中心团队、业务架构组，高星酒店、机酒交叉总技术负责人。2020 年去哪儿网金项奖评选中主导的“对内 DDD 对外 API 驱动的酒店报价业务重塑”项目获得“CEO 特别奖”。擅长架构设计、高并发高可用处理，公司内部“DDD 领域驱动设计”、“高并发解决方案”等技术系列课出品人及讲师，曾在 QCon 全球软件开发大会、Top100 全球软件案例研究峰会、SACC 中国系统架构师大会、CSDI ",
+          "avatar": "https://static001.geekbang.org/resource/image/dc/09/dcf0cb934043aaa442da05f257993009.jpg"
+        },
+        "group": {
+          "title": "",
+          "description": "",
+          "start_time": 0,
+          "end_time": 0,
+          "qrcode_show": false,
+          "qrcode_url": ""
+        },
+        "play_count": 716,
+        "score": 0,
+        "labels": [],
+        "extra": {
+          "fav": {
+            "had_done": false
+          }
+        }
+      },
+      {
+        "id": 75,
+        "type": 0,
+        "tpl_type": 0,
+        "banner_cover": "https://static001.geekbang.org/resource/image/bc/40/bc037de2b5c423a43ddf38f5b7436c40.png",
+        "banner_redirect_type": "",
+        "banner_redirect_param": "",
+        "title": "去哪儿网 DDD 落地实践",
+        "subtitle": "2022.03.07 第七十四期",
+        "intro": "\u003cp\u003e2021 年去哪儿网有针对性地做了一系列 DDD 相关的技术培训，公司内外部反馈都不错，去哪儿网内部也有不少技术团队借助 DDD 思想去结合业务实际做了一些落地。本专题我们邀请到了去哪儿网的 5 位技术专家，分别从酒店订单交易、酒店基础数据、机票主站、服务平台业务、会员卡业务讲解具体的 DDD 落地案例，分享他们在这个过程中的一些实践经验和思考。\u003c/p\u003e",
+        "cover": "https://static001.geekbang.org/resource/image/bc/40/bc037de2b5c423a43ddf38f5b7436c40.png",
+        "rect_cover": "https://static001.geekbang.org/resource/image/77/a4/77160595db1492a6db018235126d60a4.png",
+        "count": 5,
+        "with_video": true,
+        "start_time": 1646611200,
+        "pids": [
+          100091388,
+          100091389,
+          100091390,
+          100091391,
+          100091392
+        ],
+        "content": null,
+        "author": {
+          "name": "郑吉敏",
+          "title": "",
+          "intro": "2019年8月入职去哪儿网，机票目的地事业群技术总监、技术委员会委员、业务架构SIG负责人，负责酒店报价中心团队、业务架构组。2020年金项奖评选中主导的“对内DDD对外API驱动的酒店报价业务重塑”项目获得CEO特别奖，2021年获得技术品牌最佳贡献奖。曾在QCon、Top100、CSDI、SACC、MPD等大会做过技术分享。",
+          "avatar": "https://static001.geekbang.org/resource/image/dc/09/dcf0cb934043aaa442da05f257993009.jpg"
+        },
+        "group": {
+          "title": "",
+          "description": "",
+          "start_time": 0,
+          "end_time": 0,
+          "qrcode_show": false,
+          "qrcode_url": ""
+        },
+        "play_count": 1221,
+        "score": 0,
+        "labels": [],
+        "extra": {
+          "fav": {
+            "had_done": false
+          }
+        }
+      },
+      {
+        "id": 74,
+        "type": 0,
+        "tpl_type": 0,
+        "banner_cover": "https://static001.geekbang.org/resource/image/1d/98/1d625725yy3d13c0e0f6fe94e9db0798.png",
+        "banner_redirect_type": "",
+        "banner_redirect_param": "",
+        "title": "Kafka 业界最佳实践",
+        "subtitle": "2022.02.28 第七十三期",
+        "intro": "\u003cp\u003e近年来，Apache Kafka 凭借其简单易上手及高吞吐量等优势渐渐成为互联网业界消息引擎领域的主流框架。无论是在大厂亦或是创业小公司，Kafka 的身影随处可见，但如何搭建一套好用的 Kafka 环境，如何将 Kafka 合理恰当地应用到符合自身业务条件的场景等问题是众多 IT 从业者面临的一个主要难题。本专题通过引入一线大厂的实际解决方案和最佳实践介绍，希望能够从 Kafka 基本应用、底层设计、日常运维等多个方面给大家带来新的思考和借鉴。\u003c/p\u003e",
+        "cover": "https://static001.geekbang.org/resource/image/1d/98/1d625725yy3d13c0e0f6fe94e9db0798.png",
+        "rect_cover": "https://static001.geekbang.org/resource/image/1e/8a/1e66ed1ee91d89dbe3eab4153947b28a.png",
+        "count": 3,
+        "with_video": true,
+        "start_time": 1646006400,
+        "pids": [
+          100091387,
+          100091386,
+          100091385
+        ],
+        "content": null,
+        "author": {
+          "name": "胡夕",
+          "title": "",
+          "intro": "Apache Kafka Committer，老虎证券技术负责人，著有《Apache Kafka实战》一书，曾任职于IBM、搜狗和新浪微博等公司。对 Kafka 及其他开源流处理框架与技术有深刻理解，精通 Kafka 原理，主导过多个十亿级/天的消息引擎业务系统的设计与搭建，具有丰富的线上环境定位和诊断调优经验，曾给多家大型公司提供企业级 Kafka 培训。",
+          "avatar": "https://static001.geekbang.org/resource/image/fd/ed/fd8299f78f820d57957e33c72a1b7ced.jpg"
+        },
+        "group": {
+          "title": "",
+          "description": "",
+          "start_time": 0,
+          "end_time": 0,
+          "qrcode_show": false,
+          "qrcode_url": ""
+        },
+        "play_count": 420,
+        "score": 0,
+        "labels": [],
+        "extra": {
+          "fav": {
+            "had_done": false
+          }
+        }
+      },
+      {
+        "id": 73,
+        "type": 0,
+        "tpl_type": 0,
+        "banner_cover": "https://static001.geekbang.org/resource/image/1a/10/1a971f33f373c6yy7cd74e51242d9810.png",
+        "banner_redirect_type": "",
+        "banner_redirect_param": "",
+        "title": "ClickHouse 集群版深度实践",
+        "subtitle": "2022.02.21 第七十二期",
+        "intro": "\u003cp\u003eClickHouse集群面对大量数据查询性能优异，但是具有难扩容、建表繁琐、ZooKeeper瓶颈、不支持高并发等痛点。本专题将结合大型厂商的ClickHouse集群真实实践案例，从短期、中期、长期使用经验三个层次，由浅入深地给你带来应用ClickHouse集群的痛点问题的解决方案，帮助你得心应手地驾驭这匹ClickHouse黑马。\u003c/p\u003e",
+        "cover": "https://static001.geekbang.org/resource/image/1a/10/1a971f33f373c6yy7cd74e51242d9810.png",
+        "rect_cover": "https://static001.geekbang.org/resource/image/24/dc/244918d93fdaa225e386b3662bfe5fdc.png",
+        "count": 6,
+        "with_video": true,
+        "start_time": 1645401600,
+        "pids": [
+          100091379,
+          100091380,
+          100091381,
+          100091382,
+          100091383,
+          100091384
+        ],
+        "content": null,
+        "author": {
+          "name": "郭炜",
+          "title": "",
+          "intro": "郭炜，人称“郭大侠”，ClickHouse 中国社区发起人，Apache Foundation Member，Apache DolphinScheduler PMC。中国软件行业协会智能应用服务分会副主任委员，TGO 北京董事会学习委员，全球中小企业创业联合会副会长，人民大学大数据商业分析研究中心客座研究员。\n郭大侠曾任易观 CTO，联想研究院大数据总监，万达电商数据部总经理，并曾在中金、IBM、Teradata 公司担任大数据方向重要岗位，对大数据前沿领域研究做出过卓越贡献。\n郭大侠一直致力于让“数据能",
+          "avatar": "https://static001.geekbang.org/resource/image/2y/66/2yy6ffb6a6088dec350c5d38b8be8c66.jpg"
+        },
+        "group": {
+          "title": "",
+          "description": "",
+          "start_time": 0,
+          "end_time": 0,
+          "qrcode_show": false,
+          "qrcode_url": ""
+        },
+        "play_count": 897,
+        "score": 0,
+        "labels": [],
+        "extra": {
+          "fav": {
+            "had_done": false
+          }
+        }
+      },
+      {
+        "id": 72,
+        "type": 0,
+        "tpl_type": 0,
+        "banner_cover": "https://static001.geekbang.org/resource/image/24/31/24f875a43974d554ea3177c268357231.jpg",
+        "banner_redirect_type": "",
+        "banner_redirect_param": "",
+        "title": "TypeScript 在中大型项目中的落地实践",
+        "subtitle": "2022.02.14 第七十一期",
+        "intro": "\u003cp\u003e用过 TypeScript 的开发者都不约而同地直呼“真香”，但是我们也无法忽略诸如 TypeScript 的学习成本和开发成本比较高等等的阻碍，那么如何高效地使用和掌握 TypeScript，使其在中大型的项目中发挥最好的作用一直是大家讨论的热点话题。本次专题的分享我们就为大家带来一些 TypeScript 在中大型项目中的落地实践，希望能为你带来思考和启发。\u003c/p\u003e",
+        "cover": "https://static001.geekbang.org/resource/image/24/31/24f875a43974d554ea3177c268357231.jpg",
+        "rect_cover": "https://static001.geekbang.org/resource/image/59/d7/59c21d0dbbe66d3a3d04d7c8b332eed7.png",
+        "count": 4,
+        "with_video": true,
+        "start_time": 1644796800,
+        "pids": [
+          100091377,
+          100091378,
+          100091375,
+          100091376
+        ],
+        "content": null,
+        "author": {
+          "name": "许侃",
+          "title": "",
+          "intro": "《云原生应用架构：微服务开发最佳实战》作者之一，听众相似性美国专利作者，InfoQ 文章作者，有 5 年开发和项目管理经验。目前专注于云原生在前后端落地的实践和数据可视化方向的探索。",
+          "avatar": "https://static001.geekbang.org/resource/image/2d/13/2d6751292c356e5888671956b8614513.jpg"
+        },
+        "group": {
+          "title": "",
+          "description": "",
+          "start_time": 0,
+          "end_time": 0,
+          "qrcode_show": false,
+          "qrcode_url": ""
+        },
+        "play_count": 679,
+        "score": 0,
+        "labels": [],
+        "extra": {
+          "fav": {
+            "had_done": false
+          }
+        }
+      }
+    ]
+  },
+  "error": {},
+  "extra": {
+    "cost": 0.011964594,
+    "request-id": "e6c49230dfa78f98fc3831dc5624dfc2@2@time"
+  }
+}
